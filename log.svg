@@ -1,0 +1,5 @@
+<svg><rect width="300" height="200" fill="red" />
+    <text font-size="50" text-anchor="middle" fill="eee" x="150" y="120">
+      white
+    </text>
+  </svg>
