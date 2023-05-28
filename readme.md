@@ -1,12 +1,25 @@
-User Story
+```
+Description 
+```
+SVG logo maker that takes in user prompts to create the requested image. 
+```
+Usage
+```
+Github Repo: https://github.com/ZacWheeler3/SVG-Logo-Maker
+Live site: 
 
+Code created through JavaScript to structure questions and using node, inquirer, and a debugger to ensure the project would create the requested images based upon prompts
+
+```
+User Story
+```
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
-
+```
 Acceptance Criteria
-
+```
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for text
 THEN I can enter up to three characters

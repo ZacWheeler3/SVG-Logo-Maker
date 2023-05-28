@@ -30,11 +30,11 @@ inquirer
   .then(({ color, textcolor, shape, text }) => {
     // let shape;
     if (shape === "circle") {
-      shape = new Circle(color, textcolor, text);
+      shape = new Circle(color, text,  textcolor);
     } else if (shape === "triangle") {
-      shape = new Triangle(color, textcolor, text);
+      shape = new Triangle(color, text,  textcolor);
     } else {
-      shape = new Square(color, textcolor, text);
+      shape = new Square(color, text,  textcolor);
     }
 
     return shape.render();
