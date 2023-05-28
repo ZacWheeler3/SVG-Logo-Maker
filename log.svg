@@ -1,7 +1,7 @@
 <svg>
     <polygon points="150, 18 244, 182 56, 182" fill="red" />
-    <text font-size="100" dominant-baseline="middle" text-anchor="middle" fill="white"
-          x="200" y="200">
-      zsw
+    <text font-size="100" dominant-baseline="middle" text-anchor="middle" stroke="white"
+          x="150" y="120">
+      ZSW
     </text>
   </svg>

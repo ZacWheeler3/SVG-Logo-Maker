@@ -6,7 +6,7 @@ SVG logo maker that takes in user prompts to create the requested image.
 Usage
 ```
 Github Repo: https://github.com/ZacWheeler3/SVG-Logo-Maker
-Live site: 
+Live site: https://zacwheeler3.github.io/SVG-Logo-Maker/
 
 Code created through JavaScript to structure questions and using node, inquirer, and a debugger to ensure the project would create the requested images based upon prompts
 
